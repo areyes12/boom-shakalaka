@@ -30,12 +30,13 @@ ____
 
 *Remember as a kid trading anything of value for a piece of gum?*
 
-```
+
 If it wasn't your candy, perhaps it was an agreement of lunch snacks every day from the vending machine for a week. As juveniles, when we wanted to receive or purchase something of value, the obvious absence of money enabled us to think of creative ways to bid and a satisfy seller's ask, considering our inability to pay outright to time of opportunity purchase. One company decided to incorporate the same consumer enriched principals through a simple, digitial offering by the name of Klarna. The company was incorporated on 2005 by Sebastian Siemiatkkowski, Niklas Adalberth and Victor Jacobsson. The idea for the company came about by identifying ways to distrupt traditional shopping and offer alternative payment solutions. The founders sought to revolutionize the way people pay for goods and services by offering flexible payment plan options prior to completed checkout. The company is receives its company capitalization through private funding. , with a revenue of $17.53 Billion for 2022. 
-```
+
 Sources: 
 
-Tech Crunch: 
+> Financial Professional Background [_click here to view LinkedIn profile_](https://www.linkedin.com/in/alexis-reyes-21916456/). <!-- If you have the project hosted somewhere, include the link here. -->
+> Tech Crunch: []
 https://techcrunch.com/2014/10/05/square-closes-150-round-at-6-billion-valuation/
 
 ---
@@ -47,21 +48,21 @@ https://techcrunch.com/2014/10/05/square-closes-150-round-at-6-billion-valuation
 
   *A Solution To A Problem You Never Knew You Had...* 
 
-```
+
 The specific financial problem that Klarna is trying to solve is empowering consumers to make purchases without immediate payment. The process and business model aims to simplify the preference of payment method, within Klarna's flexible payment arrangements under offered terms and conditions, without any additional fees or contigencies by using their services. 1
-`````
+
 *The audience is there already...* 
-```
+
 Any demographic customer; with special focus placed on traditional online shoppers, Gen Z and Millenials consumers whom are considered tech-savvy and comfortable with digital transactions, often seeking as preferred method of convenience.   
-```
+
 *Amongst the masses and millions...*
-```
+
 There are 5.6 billion consumers in the world today. The largest consumer markets are China, United States, and Japan. 
-```
+
 
 *An opportunity to disrupt...*
 
-```
+
 Most if not all companies often demand payment when attempting to pay for goods or services either in A: Immediate payment in the form of cash or fiat. B: Special financing, if offered, through the merchant directly or preferred partner. As consumers, despite their willingness to fulfill payment as advertised for, are subject to merchant specific payment methods. This perceivable restriction reduces a consumers ultimate buying power thus the absence of such flexible payment methods like Buy Now, Pay Later create an unfavorable buyer's market. 2
 ```
 
