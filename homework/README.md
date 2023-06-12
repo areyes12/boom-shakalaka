@@ -1,7 +1,7 @@
 # FinTech Module 1 Assignment: Klarna Case Study
-> This readme is devoted to my research and analytical findings when delving into the world of FinTech for the first time.
+> *This readme is devoted to my research and analytical findings when delving into the world of FinTech for the first time.*
 > 
-> Financial Professional Background [_click here to view LinkedIn profile_](https://www.linkedin.com/in/alexis-reyes-21916456/). <!-- If you have the project hosted somewhere, include the link here. -->
+##### For more information about my professional experience and decade long financial backround before transitioning into FinTech: [_click here to view LinkedIn profile_](https://www.linkedin.com/in/alexis-reyes-21916456/). <!-- If you have the project hosted somewhere, include the link here. -->
 ---
 
 
