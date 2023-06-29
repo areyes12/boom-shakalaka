@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "CU-VIRT-FIN-PT-06-2023-U-LOLC"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
